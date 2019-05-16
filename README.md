@@ -1,2 +1,1 @@
-# backbeat-member
-Backbeat member zone
+# Backbeat member's area
